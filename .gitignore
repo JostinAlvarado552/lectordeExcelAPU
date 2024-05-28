@@ -1,0 +1,23 @@
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno virtual de Python
+venv/
+*.pyc
+
+# Carpeta de archivos estáticos generados
+staticfiles/
+
+# Carpeta de archivos de registro generados
+logs/
+
+# Archivos de caché
+__pycache__/
+
+# Archivos temporales de Excel
+~$*
+
+# Entorno de desarrollo
+.idea/
+*.sqlite3

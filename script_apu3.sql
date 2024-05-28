@@ -1,0 +1,1 @@
+INSERT INTO automatizacion_apus_apus (rubro_id, contenido, categoria) VALUES (1, 'Herramientas manuales  (5% M.O.)', 1), (1, 'Peón', 2), (1, 'Maestro mayor en ejecución de obras civiles', 2), (3, 'Herramientas manuales  (5% M.O.)', 1), (3, 'Peón', 2), (3, 'Albañil', 2)
